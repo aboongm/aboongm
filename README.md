@@ -6,6 +6,7 @@ I am a very motivated self-taught full-stack web developer and a freelancer. I a
 - 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
@@ -15,10 +16,12 @@ I am a very motivated self-taught full-stack web developer and a freelancer. I a
 
 
 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact)](https://github.com/aboongm/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact" alt="aboongm" />
+
 
 My Github Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=gotham" alt="aboongm" />
+
 
 <!--
 **aboongm/aboongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
