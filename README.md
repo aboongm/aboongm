@@ -16,7 +16,7 @@ I am a very motivated self-taught full-stack web developer and a freelancer. I a
 
 
 Top Languages:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact" alt="aboongm" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact&show_icons=true&theme=gotham" alt="aboongm" />
 
 
 My Github Stats:
