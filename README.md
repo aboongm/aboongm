@@ -1,6 +1,10 @@
 ### Hi, I m Aboong 👋
 
-[![Aboong's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/aboongm/github-readme-stats)
+NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact)](https://github.com/aboongm/github-readme-stats)
+
+My Github Stats:
+[![Aboong's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=radical)](https://github.com/aboongm/github-readme-stats)
 
 <!--
 **aboongm/aboongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
