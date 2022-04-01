@@ -1,10 +1,27 @@
-### Hi, I m Aboong 👋
+### Hi, I m Mayengbam Ranjit Luwang👋
 
-NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact)](https://github.com/aboongm/github-readme-stats)
+I am a very motivated self-taught full-stack web developer and a freelancer. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+ 
+- 💼 any freelance work? do reach, [email](mailto:aboongm@yahoo.com) :)
+- 💬 ask me about anything, I am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+Top Languages:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboongm&layout=compact&show_icons=true&theme=gotham" alt="aboongm" />
+
 
 My Github Stats:
-[![Aboong's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=radical)](https://github.com/aboongm/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=gotham" alt="aboongm" />
+
 
 <!--
 **aboongm/aboongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
