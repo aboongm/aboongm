@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Aboong's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboongm)](https://github.com/aboongm/github-readme-stats)
+
 <!--
 **aboongm/aboongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
