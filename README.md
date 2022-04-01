@@ -1,5 +1,7 @@
 ### Hi, I m Aboong 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aboongm&repo=github-readme-stats)](https://github.com/aboongm/github-readme-stats)
+
 [![Aboong's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboongm&show_icons=true&theme=radical)](https://github.com/aboongm/github-readme-stats)
 
 <!--
