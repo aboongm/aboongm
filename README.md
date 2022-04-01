@@ -11,7 +11,7 @@ I am a very motivated self-taught full-stack web developer and a freelancer. I a
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mayengbam-ranjit-luwang-31962418)
 &nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://discordapp.com/users/732492890521075813)
+[![website](./img/discord-purple.svg)](https://discordapp.com/users/732492890521075813)
 
 
 **languages and tools:**  
