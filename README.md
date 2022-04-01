@@ -1,4 +1,4 @@
-### Hi, I m Mayengbam Ranjit Luwang👋
+### Hi, I am Mayengbam Ranjit Luwang 👋
 
 I am a very motivated self-taught full-stack web developer and a freelancer. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  
