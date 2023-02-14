@@ -1,6 +1,6 @@
 ### Hi, I am Mayengbam Ranjit Luwang 👋
 
-I am a highly motivated and self-taught full-stack web developer and freelancer. I have a passion for creating beautiful, user-friendly and responsive websites and web applications that make an impact. I have a strong background in HTML, CSS, JavaScript, Ruby and various web development frameworks such as React, and Ruby on Rails.
+I am a highly motivated and full-stack web developer and freelancer. I have a passion for creating beautiful, user-friendly and responsive websites and web applications that make an impact. I have a strong background in HTML, CSS, JavaScript, Ruby and various web development frameworks such as React, and Ruby on Rails.
 
 As an open-source enthusiast, I have learned a lot from the open-source community and I am a firm believer in the power of collaboration and knowledge sharing. I actively contribute to various open-source projects on GitHub and I am always looking for new opportunities to learn and grow as a developer.
 
