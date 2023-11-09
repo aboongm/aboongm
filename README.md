@@ -1,10 +1,12 @@
-### Hi, I m Mayengbam Ranjit Luwang👋
+### Hi, I am Mayengbam Ranjit Luwang 👋
 
-I am a motivated self-taught full-stack web developer and a freelancer. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
- 
-- 💼 any freelance work? do reach, [email](mailto:aboongm@yahoo.com) :)
-- 💬 ask me about anything, I am happy to help;
+I am a highly motivated and full-stack web developer and freelancer. I have a passion for creating beautiful, user-friendly and responsive websites and web applications that make an impact. I have a strong background in HTML, CSS, JavaScript, Ruby and various web development frameworks such as React, and Ruby on Rails.
 
+As an open-source enthusiast, I have learned a lot from the open-source community and I am a firm believer in the power of collaboration and knowledge sharing. I actively contribute to various open-source projects on GitHub and I am always looking for new opportunities to learn and grow as a developer.
+
+If you are in need of any freelance web development work, please don't hesitate to reach out to me via email. I am always happy to discuss new projects and I am confident that I can deliver high-quality results that exceed your expectations.
+
+In addition to web development, I am also available to answer any questions or provide help and guidance on any web development-related topics. You can connect with me through my website, where you can find more information about my skills, experience and portfolio.
 ### Connect with me:
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/John_luang1)
