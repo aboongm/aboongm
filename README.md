@@ -10,7 +10,7 @@ I am not only here to code but also to inspire and be inspired. My passion for t
 
 Moreover, I'm here to guide subtly, offering insights on web and blockchain development, and to share startup inspiration with those who seek it. You can discreetly connect with me through my website, where you'll find more about my skills, experiences, and a glimpse of the exciting projects I've been a part of.
 
-### Let's connect quietly and create the future together:
+### Let's connect and create the future together:
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/John_luang1)
 &nbsp;&nbsp;
