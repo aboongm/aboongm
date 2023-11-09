@@ -1,13 +1,18 @@
-### Hi, I am Mayengbam Ranjit Luwang 👋
+### Greetings, I'm Mayengbam Ranjit Luwang 👋
 
-I am a highly motivated and full-stack web developer and freelancer. I have a passion for creating beautiful, user-friendly and responsive websites and web applications that make an impact. I have a strong background in HTML, CSS, JavaScript, Ruby and various web development frameworks such as React, and Ruby on Rails.
+Hello, I'm Mayengbam Ranjit Luwang 👋
 
-As an open-source enthusiast, I have learned a lot from the open-source community and I am a firm believer in the power of collaboration and knowledge sharing. I actively contribute to various open-source projects on GitHub and I am always looking for new opportunities to learn and grow as a developer.
+I consider myself an understated yet dedicated developer with a flair for crafting seamless web, mobile, and blockchain solutions. My expertise quietly extends across both the mobile and blockchain domains, enabling me to create versatile digital experiences.
 
-If you are in need of any freelance web development work, please don't hesitate to reach out to me via email. I am always happy to discuss new projects and I am confident that I can deliver high-quality results that exceed your expectations.
+In my toolkit are HTML, CSS, JavaScript, Ruby, and the graceful React library, ideal for developing web and mobile applications. In the realm of blockchain, I navigate Solidity and harness the subtle power of development tools like Hardhat and Foundry to bring innovative ideas to life.
 
-In addition to web development, I am also available to answer any questions or provide help and guidance on any web development-related topics. You can connect with me through my website, where you can find more information about my skills, experience and portfolio.
-### Connect with me:
+Beyond code, I'm an advocate of open-source collaboration and a firm believer in the transformative potential of shared knowledge. You'll find me actively contributing to open-source projects on GitHub, always eager to deepen my understanding and grow as a developer.
+
+I am not only here to code but also to inspire and be inspired. My passion for technology and innovation often draws me to the vibrant world of startups. I'm driven by the desire to work with like-minded individuals who share a vision for disruptive solutions. If you're working on a groundbreaking project and need a versatile developer who understands the subtleties of technology, feel free to reach out via email. I'm eager to explore new opportunities and committed to exceeding your expectations.
+
+Moreover, I'm here to guide subtly, offering insights on web and blockchain development, and to share startup inspiration with those who seek it. You can discreetly connect with me through my website, where you'll find more about my skills, experiences, and a glimpse of the exciting projects I've been a part of.
+
+### Let's connect quietly and create the future together:
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/John_luang1)
 &nbsp;&nbsp;
