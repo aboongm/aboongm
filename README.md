@@ -22,7 +22,7 @@ Moreover, I'm here to guide subtly, offering insights on web and blockchain deve
 **languages and tools:**  
 
 <div style="display: flex; align-items: center; gap: 6px">
-  <div style="background-color: grey; padding-top: 6px; padding-left: 6px; padding-right: 6px;  border-radius: 4px;">
+  <div style="background-color: lightblue; padding-top: 6px; padding-left: 6px; padding-right: 6px;  border-radius: 4px;">
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
